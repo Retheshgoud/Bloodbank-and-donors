@@ -34,3 +34,7 @@ Blood Bank donation system can collect blood from many donators in short from va
 UI templates from
 - [startbootstrap](https://www.startbootstrap.com)
 - [bootstrap](https://www.bootstrap.com)
+
+
+
+[![Coverage Status](https://coveralls.io/repos/github/Retheshgoud/Bloodbank-and-donors/badge.svg?branch=main)](https://coveralls.io/github/Retheshgoud/Bloodbank-and-donors?branch=main)
