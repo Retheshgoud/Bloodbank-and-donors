@@ -37,4 +37,3 @@ UI templates from
 
 
 
-[![Coverage Status](https://coveralls.io/repos/github/Retheshgoud/Bloodbank-and-donors/badge.svg?branch=main)](https://coveralls.io/github/Retheshgoud/Bloodbank-and-donors?branch=main)
